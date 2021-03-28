@@ -1,24 +1,7 @@
-# README
+Introduction
+Blogo is blogging tool developed in RubyOnRails framework. It is a web application to add, delete, update and display the articles. It is a powerful blogging tool. It uses SQLite3 database to store the articles,post.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Dependencies
+Language : RubyOnRails
+Database : SQLite3
+Authentication :Devise
